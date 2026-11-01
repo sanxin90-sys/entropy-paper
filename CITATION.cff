@@ -7,7 +7,9 @@ license: MIT
 repository-code: "https://github.com/sanxin90-sys/entropy-paper"
 type: software
 authors:
-  - name: "sanxin90-sys"
+  - family-names: "Silva"
+    given-names: "Ian"
+    orcid: "https://orcid.org/0000-0001-8558-5156"
 abstract: >-
   Python pipeline and derived tables for the surface entropy budget of the
   AmeriFlux site BR-Npw (northern Pantanal, Brazil) from the ONEFlux

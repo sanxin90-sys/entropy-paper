@@ -3,12 +3,27 @@
   "upload_type": "software",
   "description": "Python pipeline and derived tables for the surface entropy budget of the AmeriFlux site BR-Npw (northern Pantanal, Brazil) from the ONEFlux half-hourly product for 2015-2016, with the Planck (4/3) convention for the radiation terms, closure scenarios S0-S3, a daily block bootstrap and one-at-a-time sensitivity analysis. AmeriFlux input data are not included (CC-BY-4.0, https://doi.org/10.17190/AMF/1881563). Code is MIT-licensed; the derived tables in results/tables are CC-BY-4.0.",
   "creators": [
-    {"name": "sanxin90-sys"}
+    {
+      "name": "Silva, Ian",
+      "orcid": "0000-0001-8558-5156"
+    }
   ],
   "license": "MIT",
   "version": "1.0.0",
-  "keywords": ["entropy production", "radiation entropy", "eddy covariance", "energy-balance closure", "Pantanal", "FLUXNET"],
+  "keywords": [
+    "entropy production",
+    "radiation entropy",
+    "eddy covariance",
+    "energy-balance closure",
+    "Pantanal",
+    "FLUXNET"
+  ],
   "related_identifiers": [
-    {"identifier": "10.17190/AMF/1881563", "relation": "references", "scheme": "doi", "resource_type": "dataset"}
+    {
+      "identifier": "10.17190/AMF/1881563",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
   ]
 }
