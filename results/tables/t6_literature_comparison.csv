@@ -1,0 +1,8 @@
+site,biome,period,formulation,sigma_Wm2K,SR,source,status
+"BR-Npw (this study, core, raw mean)","seasonally flooded woody savanna, Pantanal",2015-2016 measured half-hours,"sigma = J_out - J_in; SW at T_sun (4/3); LW_IN at T_sky; LW_OUT at T_s (eps 0.98); H, LE at T_s; closure S0",0.4954,1.2568,this run,Reproduced (this run)
+"BR-Npw (this study, core, stratified month x slot mean)",as above,as above,as above; climatological weighting,0.4867,1.2515,this run,Reproduced (this run)
+"BR-Npw (this study, closure S1-S3)",as above,as above,residual R' attributed to turbulent fluxes,0.5796-0.5808,1.3004-1.3010,this run,Reproduced (this run)
+Amazon forest (Holdaway et al. 2010),tropical forest,,entropy production from EC-tower energy budget; details to confirm against full text,0.461,,"Holdaway, Sparrow & Coomes 2010, Phil Trans R Soc B 365:1437 (abstract)",Verified abstract
+Amazon pasture (Holdaway et al. 2010),pasture,,as above,0.422,,Holdaway et al. 2010 (abstract),Verified abstract
+"7 AmeriFlux sites (Lin 2015), range",various,,Delta S_e = J_in - J_out (negative); SR from daily-averaged fluxes,0.258-0.609 (|Delta S_e|),1.23-1.53 (mean 1.35 +/- 0.10),"Lin 2015, Ecol Model 298:75 (abstract)",Verified abstract
+Lin 2015 midday / midnight SR,,,,,midday 1.46-2.23; midnight 1.09-1.22,Lin 2015 (abstract),Verified abstract

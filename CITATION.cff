@@ -1,0 +1,51 @@
+# DRAFT: replace the bracketed fields before publishing the repository.
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the article and this repository."
+title: "Surface entropy budget of BR-Npw (northern Pantanal): code and derived tables"
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+license:
+  - MIT
+  - CC-BY-4.0
+doi: "[repository DOI]"
+repository-code: "https://github.com/sanxin90-sys/entropy-paper"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given names]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+    affiliation: "[Affiliation]"
+keywords:
+  - entropy production
+  - radiation entropy
+  - eddy covariance
+  - energy-balance closure
+  - Pantanal
+  - FLUXNET
+references:
+  - type: dataset
+    title: "AmeriFlux FLUXNET-1F BR-Npw Northern Pantanal Wetland, Ver. v1.3_r1 (2013-2017)"
+    authors:
+      - family-names: "Vourlitis"
+        given-names: "G"
+      - family-names: "Dalmagro"
+        given-names: "H"
+      - family-names: "Nogueira"
+        given-names: "J de S"
+      - family-names: "Johnson"
+        given-names: "M"
+      - family-names: "Arruda"
+        given-names: "P"
+    year: 2026
+    publisher:
+      name: "AmeriFlux AMP"
+    doi: "10.17190/AMF/1881563"
+    license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Surface entropy production of a seasonally flooded woody savanna in the northern Pantanal: absorbed-shortwave scaling and the energy-balance closure residual as the dominant uncertainty"
+  authors:
+    - family-names: "[Family name]"
+      given-names: "[Given names]"
+  journal: "Theoretical and Applied Climatology"
+  year: "[year]"
+  doi: "[article DOI]"
