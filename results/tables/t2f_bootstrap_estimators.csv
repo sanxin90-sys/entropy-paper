@@ -1,0 +1,5 @@
+period,sigma_raw,sigma_raw_lo_7d,sigma_raw_hi_7d,sigma_strat,sigma_strat_lo_7d,sigma_strat_hi_7d,strat_matches_t2,n_complete_days,sigma_daily_mean,sigma_daily_mean_lo_7d,sigma_daily_mean_hi_7d,SR_daily_Lin,SR_daily_lo_7d,SR_daily_hi_7d
+2015-2016,0.49536,0.477423,0.512438,0.486715,0.472833,0.502859,True,485,0.504306,0.484837,0.52165,1.26181,1.25252,1.2706
+wet pooled (Nov-Apr),0.53771,0.516869,0.559173,0.526439,0.502083,0.548603,True,209,0.549637,0.527765,0.573253,1.2769,1.26605,1.28832
+dry pooled (May-Oct),0.462857,0.441644,0.484162,0.44753,0.43046,0.466798,True,276,0.469979,0.446989,0.492603,1.24975,1.23705,1.26162
+stratified wet pooled - dry pooled,,,,0.0789087,0.0465649,0.108969,,,,,,,,

@@ -1,0 +1,9 @@
+definition,n,n_slots_05:00-06:30_start,n_slots_05:00-06:00_start,note
+"turbulent fluxes measured, 2015-2016",28525,2352,1745,"28,525 in the run log"
+... and fail the incoming-radiation condition (SW_IN_F_QC != 0 or LW_IN_F_QC != 0),2863,682,625,"2,863 = 28,525 - 25,662"
+"... SW_IN_F_QC != 0 with LW_IN_F_QC == 0 (removed by the SW condition alone, beyond those lacking measured LW_IN)",468,468,467,definition of the SI v9 sentence (Sect. S2)
+... LW_IN_F_QC != 0 (lacking measured LW_IN),2395,214,158,
+... SW_IN_F_QC != 0 (any LW flag),2823,676,620,
+... SW_IN_F_QC != 0 and LW_IN_F_QC != 0,2355,208,153,
+all 2015-2016 records with SW_IN_F_QC != 0 and LW_IN_F_QC == 0 (no turbulent condition),594,590,589,
+all 2015-2016 records with SW_IN_F_QC != 0,4101,883,808,

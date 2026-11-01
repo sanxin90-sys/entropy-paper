@@ -1,4 +1,12 @@
-MIT License
+This repository contains two kinds of material under two licences.
+
+1. Code (everything under code/): MIT License
+2. Derived tables (everything under results/tables/): Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+The AmeriFlux input data are not included. They are distributed by AmeriFlux under CC-BY-4.0 (https://doi.org/10.17190/AMF/1881563).
+
+------------------------------------------------------------------------------
+MIT License (code/)
 
 Copyright (c) 2026 sanxin90-sys
 
@@ -19,3 +27,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------------------------------------
+CC-BY-4.0 (results/tables/)
+
+Copyright (c) 2026 sanxin90-sys
+
+The derived tables are licensed under the Creative Commons Attribution 4.0
+International License. You are free to share and adapt them for any purpose,
+provided you give appropriate credit, provide a link to the licence and
+indicate if changes were made. Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+The tables are derived from the AmeriFlux FLUXNET product BR-Npw v1.3_r1
+(https://doi.org/10.17190/AMF/1881563, CC-BY-4.0). Any reuse must also credit
+that dataset.
