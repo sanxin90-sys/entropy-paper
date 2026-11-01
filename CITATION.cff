@@ -1,20 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this code or these tables, please cite the article and this repository."
+message: "If you use this code or these tables, please cite this repository."
 title: "Surface entropy budget of BR-Npw (northern Pantanal): code and derived tables"
 version: "1.0.0"
 date-released: "2026-11-01"
-license:
-  - MIT
-  - CC-BY-4.0
+license: MIT
 repository-code: "https://github.com/sanxin90-sys/entropy-paper"
+type: software
 authors:
-  - alias: "sanxin90-sys"
+  - name: "sanxin90-sys"
 abstract: >-
   Python pipeline and derived tables for the surface entropy budget of the
   AmeriFlux site BR-Npw (northern Pantanal, Brazil) from the ONEFlux
   half-hourly product for 2015-2016, with the Planck (4/3) convention for
   the radiation terms, closure scenarios S0-S3, a daily block bootstrap and
   one-at-a-time sensitivity analysis. AmeriFlux input data are not included.
+  Code is MIT-licensed; the derived tables in results/tables are CC-BY-4.0.
 keywords:
   - entropy production
   - radiation entropy
@@ -22,29 +22,3 @@ keywords:
   - energy-balance closure
   - Pantanal
   - FLUXNET
-references:
-  - type: data
-    title: "AmeriFlux FLUXNET-1F BR-Npw Northern Pantanal Wetland, Ver. v1.3_r1 (2013-2017)"
-    authors:
-      - family-names: "Vourlitis"
-        given-names: "G"
-      - family-names: "Dalmagro"
-        given-names: "H"
-      - family-names: "Nogueira"
-        given-names: "J de S"
-      - family-names: "Johnson"
-        given-names: "M"
-      - family-names: "Arruda"
-        given-names: "P"
-    year: 2026
-    publisher:
-      name: "AmeriFlux AMP"
-    doi: "10.17190/AMF/1881563"
-    license: CC-BY-4.0
-preferred-citation:
-  type: article
-  title: "Surface entropy production of a seasonally flooded woody savanna in the northern Pantanal: absorbed-shortwave scaling and the energy-balance closure residual as the dominant uncertainty"
-  authors:
-    - alias: "sanxin90-sys"
-  journal: "Theoretical and Applied Climatology"
-  status: in-preparation
