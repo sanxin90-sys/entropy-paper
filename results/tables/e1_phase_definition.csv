@@ -1,0 +1,11 @@
+stratum,n_hh,n_days_with_data,first_day,last_day,months,seed,source
+flooded,11277,262,2015-03-17,2016-12-05,2015-03 2015-04 2015-05 2015-06 2016-02 2016-03 2016-04 2016-05 2016-06 2016-11 2016-12,20261030,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+wet_nf,4734,112,2015-11-01,2016-11-17,2015-11 2015-12 2016-01 2016-02 2016-11,20261031,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+dry,9651,236,2015-07-01,2016-10-31,2015-07 2015-08 2015-09 2015-10 2016-06 2016-07 2016-08 2016-09 2016-10,20261032,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),4012,95,2015-11-01,2016-02-03,2015-11 2015-12 2016-01 2016-02,20261033,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+flooded 2016 (4 Feb-20 Jun 2016),5958,138,2016-02-04,2016-06-20,2016-02 2016-03 2016-04 2016-05 2016-06,20261034,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+dry 2016 (21 Jun-31 Oct 2016),5355,124,2016-06-21,2016-10-31,2016-06 2016-07 2016-08 2016-09 2016-10,20261035,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+flooded 2015 (core: Mar-30 Jun 2015),4568,106,2015-03-17,2015-06-30,2015-03 2015-04 2015-05 2015-06,20261036,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+dry 2015 (1 Jul-31 Oct 2015),4296,112,2015-07-01,2015-10-31,2015-07 2015-08 2015-09 2015-10,20261037,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+"flooded, wet months (Nov-Apr)",6409,150,2015-03-17,2016-12-05,2015-03 2015-04 2016-02 2016-03 2016-04 2016-11 2016-12,20261038,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)
+"flooded, dry months (May-Jun)",4868,112,2015-05-01,2016-06-20,2015-05 2015-06 2016-05 2016-06,20261039,anaerobic windows: Dalmagro et al. 2019 Table 1 p. 1973; seasons: site metadata (Nov-Apr wet)

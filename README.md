@@ -23,6 +23,9 @@ code/
                                RMA closure slopes, nighttime SR); appends to the tables and
                                writes results/run_log_rerun_2026-11-01.txt
   addons/figures_v10.py        Fig. S1 (sensitivity chart) with the row names of Table S4
+  addons/ecosystem_response.py flood-phase contrasts (phases from Dalmagro et al. 2019), driver
+                               correlations, dry season 2015 vs 2016 and GPP; writes
+                               results/tables/e*.csv and figures e1_*, e2_*
   tests/test_entropy.py        18 unit tests of the entropy functions
   tests/test_select.py         2 tests: data checksum and core sample count (25,662)
 results/tables/        the 23 derived tables (CSV) used for every number in the article
@@ -59,6 +62,7 @@ From the `code/` folder:
 ```
 python3 -I run_all.py
 python3 -I addons/rerun_2026_11_01.py
+python3 -E -P addons/ecosystem_response.py
 python3 -I -m pytest -q tests/
 ```
 

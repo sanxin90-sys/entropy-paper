@@ -1,0 +1,49 @@
+contrast,closure,factor,dlog_pct,lo95_pct,hi95_pct,resolved_95
+flooded - dry,S0,sigma,-2.15835,-9.56087,5.17419,False
+flooded - dry,S0,CF,1.50586,-1.09419,4.47486,False
+flooded - dry,S0,SW_IN,-5.03722,-12.9014,2.42257,False
+flooded - dry,S0,one_minus_alpha,1.37302,0.85557,1.88312,True
+flooded - dry,S1,sigma,-3.19421,-10.9578,4.00766,False
+flooded - dry,S1,CF,0.469992,0.0906243,0.893298,True
+flooded - dry,S1,SW_IN,-5.03722,-12.9014,2.42257,False
+flooded - dry,S1,one_minus_alpha,1.37302,0.85557,1.88312,True
+flooded - wet_nf,S0,sigma,-13.5871,-22.5323,-5.10637,True
+flooded - wet_nf,S0,CF,-0.209214,-2.68769,2.56617,False
+flooded - wet_nf,S0,SW_IN,-15.2598,-24.4957,-6.46715,True
+flooded - wet_nf,S0,one_minus_alpha,1.88191,1.35581,2.42896,True
+flooded - wet_nf,S1,sigma,-12.3917,-21.1596,-3.93937,True
+flooded - wet_nf,S1,CF,0.986193,0.618764,1.38453,True
+flooded - wet_nf,S1,SW_IN,-15.2598,-24.4957,-6.46715,True
+flooded - wet_nf,S1,one_minus_alpha,1.88191,1.35581,2.42896,True
+wet_nf - dry,S0,sigma,11.4287,3.18326,19.1022,True
+wet_nf - dry,S0,CF,1.71507,-0.817615,4.4445,False
+wet_nf - dry,S0,SW_IN,10.2226,1.80387,17.9277,True
+wet_nf - dry,S0,one_minus_alpha,-0.508893,-1.15261,0.111547,False
+wet_nf - dry,S1,sigma,9.19746,1.18439,16.4506,True
+wet_nf - dry,S1,CF,-0.516201,-0.942524,-0.10342,True
+wet_nf - dry,S1,SW_IN,10.2226,1.80387,17.9277,True
+wet_nf - dry,S1,one_minus_alpha,-0.508893,-1.15261,0.111547,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,sigma,-2.5162,-12.1317,6.66694,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,CF,0.560356,-3.48458,4.45541,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,SW_IN,-4.46765,-14.9443,5.56817,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,one_minus_alpha,1.39109,0.765108,2.03854,True
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,sigma,-2.93585,-12.8521,6.69193,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,CF,0.140708,-0.434937,0.749827,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,SW_IN,-4.46765,-14.9443,5.56817,False
+flooded 2016 (4 Feb-20 Jun 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,one_minus_alpha,1.39109,0.765108,2.03854,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S0,sigma,-13.1631,-23.3037,-2.48541,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S0,CF,0.4637,-3.24556,4.31318,False
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S0,SW_IN,-15.4273,-26.2275,-4.08983,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S0,one_minus_alpha,1.80049,1.267,2.34938,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S1,sigma,-12.5602,-23.1426,-1.54198,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S1,CF,1.06661,0.57708,1.58551,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S1,SW_IN,-15.4273,-26.2275,-4.08983,True
+flooded 2016 (4 Feb-20 Jun 2016) - wet_nf 2015/16 (1 Nov 2015-3 Feb 2016),S1,one_minus_alpha,1.80049,1.267,2.34938,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,sigma,10.6469,1.66328,18.4717,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,CF,0.0966556,-3.08618,3.35711,False
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,SW_IN,10.9597,1.57428,18.5931,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S0,one_minus_alpha,-0.409397,-1.2028,0.426026,False
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,sigma,9.62436,0.68338,16.9888,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,CF,-0.925899,-1.43265,-0.454232,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,SW_IN,10.9597,1.57428,18.5931,True
+wet_nf 2015/16 (1 Nov 2015-3 Feb 2016) - dry 2016 (21 Jun-31 Oct 2016),S1,one_minus_alpha,-0.409397,-1.2028,0.426026,False
